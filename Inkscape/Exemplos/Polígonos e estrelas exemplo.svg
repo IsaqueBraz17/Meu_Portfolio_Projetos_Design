@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="Polígonos e estrelas exemplo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="8.122326"
+     inkscape:cx="502.31917"
+     inkscape:cy="234.60029"
+     inkscape:window-width="1440"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#ffff00;fill-opacity:1;stroke:#787878;stroke-width:2.565;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path139"
+       inkscape:flatsided="true"
+       sodipodi:sides="5"
+       sodipodi:cx="133.50758"
+       sodipodi:cy="68.701515"
+       sodipodi:r1="11.972136"
+       sodipodi:r2="23.944271"
+       sodipodi:arg1="-1.5940479"
+       sodipodi:arg2="-0.96572942"
+       inkscape:rounded="1.3877788e-16"
+       inkscape:randomized="0"
+       d="m 133.22924,56.732616 11.57543,8.005583 -4.03676,13.482752 -14.07028,0.327215 -4.65916,-13.280521 z"
+       inkscape:transform-center-x="-0.31831442"
+       inkscape:transform-center-y="9.3829859"
+       transform="matrix(0.25536078,0.75553161,-0.73152777,0.24175149,149.21089,-54.567617)" />
+  </g>
+</svg>

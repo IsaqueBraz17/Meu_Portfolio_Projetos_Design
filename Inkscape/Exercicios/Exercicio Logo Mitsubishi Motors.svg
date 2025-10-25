@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg640"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="Exercicio Logo Mitsubishi Motors.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview642"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74713294"
+     inkscape:cx="560.8105"
+     inkscape:cy="396.85039"
+     inkscape:window-width="1440"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs637" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path748"
+       style="fill:#fc1414;stroke-width:0.179064"
+       inkscape:transform-center-y="-17.907067"
+       d="M 156.70336,8.6556593 93.128576,116.09816 h 40.064704 l 22.37143,-34.641191 h -41.9189 l 20.97786,-35.253017 20.96016,35.222967 0.27015,-0.41802 0.0138,0.0211 22.72442,-35.062326 3.25095,5.174726 z m 25.1398,42.4867197 18.16276,30.69564 1.12519,0.008 z m 18.16276,30.69564 -43.80532,-0.29226 22.31407,34.552401 h 41.76312 z m -21.49125,34.260141 h -45.32139 l -0.25846,0.4004 h 45.83831 z m -22.31407,-34.552401 -0.33281,-0.51578 -0.27121,0.41836 0.005,0.009 h -0.011 l -0.0545,0.0843 z m -0.60969,-0.0888 0.006,-0.009 -0.0127,-0.0214 -0.0191,0.0301 z" />
+    <path
+       sodipodi:type="star"
+       style="fill:#fc1414;stroke-width:0.264583"
+       id="path750"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="177.77403"
+       sodipodi:cy="94.907249"
+       sodipodi:r1="1.4165262"
+       sodipodi:r2="0.7082631"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.52359878"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 177.77403,93.490723 1.22675,2.12479 -2.4535,0 z"
+       inkscape:transform-center-x="2.2396728e-06"
+       inkscape:transform-center-y="-0.35413273" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.2561px;line-height:1.25;font-family:Bitsumishi;-inkscape-font-specification:Bitsumishi;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.731405"
+       x="144.30444"
+       y="156.87997"
+       id="text793"
+       transform="scale(1.1101526,0.90077703)"><tspan
+         sodipodi:role="line"
+         id="tspan791"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitsumishi;-inkscape-font-specification:Bitsumishi;text-align:center;text-anchor:middle;stroke-width:0.731405"
+         x="144.30444"
+         y="156.87997">MITSUBISHI</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitsumishi;-inkscape-font-specification:Bitsumishi;text-align:center;text-anchor:middle;stroke-width:0.731405"
+         x="144.30444"
+         y="193.45012"
+         id="tspan795">MOTORS</tspan></text>
+  </g>
+</svg>

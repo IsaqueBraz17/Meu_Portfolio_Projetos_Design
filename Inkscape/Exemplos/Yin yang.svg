@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg24332"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="Yin yang.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview24334"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="0.69339717"
+     inkscape:cx="398.04028"
+     inkscape:cy="320.88392"
+     inkscape:window-width="1440"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs24329" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g24772">
+      <path
+         id="path24348"
+         style="fill:#800000;stroke-width:0.665001;stroke-linejoin:round"
+         d="m 115.86809,23.657678 c -44.182595,1.28e-4 -79.999636,35.81717 -79.999764,79.999772 -1.55e-4,44.1828 35.816969,80.00015 79.999764,80.00028 32.56476,-27.00024 32.56476,-54.30365 0,-80.13494 -33.05226,-27.374049 -33.05226,-54.097822 0,-79.865112 z"
+         sodipodi:nodetypes="ccccc" />
+      <circle
+         style="fill:#000080;stroke-width:0.665001;stroke-linejoin:round"
+         id="path24744"
+         cx="111.91028"
+         cy="143.59027"
+         r="20" />
+      <path
+         id="path24750"
+         style="fill:#000080;stroke-width:0.665001;stroke-linejoin:round"
+         d="m 135.32867,184.03906 c 44.1826,-1.3e-4 79.99964,-35.81717 79.99977,-79.99978 1.5e-4,-44.182797 -35.81697,-80.000147 -79.99977,-80.000277 -32.56476,27.00024 -32.56476,54.30365 0,80.134937 33.05226,27.37406 33.05226,54.09783 0,79.86512 z"
+         sodipodi:nodetypes="ccccc" />
+      <circle
+         style="fill:#d40000;stroke-width:0.665001;stroke-linejoin:round"
+         id="circle24752"
+         cx="-139.2865"
+         cy="-64.106468"
+         r="20"
+         transform="scale(-1)" />
+    </g>
+  </g>
+</svg>

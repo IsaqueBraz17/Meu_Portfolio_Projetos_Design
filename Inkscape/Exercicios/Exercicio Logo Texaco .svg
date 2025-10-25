@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="Exercicio Logo Texaco .svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="1.7072532"
+     inkscape:cx="569.33559"
+     inkscape:cy="228.72999"
+     inkscape:window-width="1440"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path305"
+       style="fill:#f80000;stroke-width:0.264583"
+       d="M 150.68279 38.954211 A 51.172005 51.172005 0 0 0 102.35344 73.417741 L 135.91729 69.099141 L 151.46827 38.964547 A 51.172005 51.172005 0 0 0 150.68279 38.954211 z M 151.46827 38.964547 A 51.172005 51.172005 0 0 1 151.47861 38.964547 L 151.47344 38.954211 L 151.46827 38.964547 z M 151.47861 38.964547 L 166.07513 69.56733 L 199.54441 74.934961 A 51.172005 51.172005 0 0 0 151.47861 38.964547 z M 199.54441 74.934961 A 51.172005 51.172005 0 0 1 199.58885 75.081205 L 199.71546 74.962349 L 199.54441 74.934961 z M 199.58885 75.081205 L 174.94643 98.23018 L 180.18177 131.70979 L 150.27145 115.47667 L 119.86659 130.77341 L 126.15044 97.47312 L 102.28626 73.60946 A 51.172005 51.172005 0 0 0 99.510722 90.126282 A 51.172005 51.172005 0 0 0 150.68279 141.29835 A 51.172005 51.172005 0 0 0 201.85486 90.126282 A 51.172005 51.172005 0 0 0 199.58885 75.081205 z M 102.28626 73.60946 A 51.172005 51.172005 0 0 1 102.35344 73.417741 L 102.124 73.447196 L 102.28626 73.60946 z " />
+    <ellipse
+       style="fill:#480000;stroke-width:0.264583"
+       id="path307"
+       cx="205.57335"
+       cy="167.68129"
+       rx="3.7183812"
+       ry="1.2394603" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:59.4622px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.48655"
+       x="120.23266"
+       y="147.6514"
+       id="text523"
+       transform="scale(1.2658741,0.78996801)"><tspan
+         sodipodi:role="line"
+         id="tspan521"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni;stroke-width:1.48655"
+         x="120.23266"
+         y="147.6514" /><tspan
+         sodipodi:role="line"
+         style="stroke-width:1.48655"
+         x="120.23266"
+         y="224.95297"
+         id="tspan525" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:69.0963px;line-height:1.25;font-family:sans-serif;fill:#fc1414;fill-opacity:1;stroke:none;stroke-width:1.72742"
+       x="117.09328"
+       y="134.56828"
+       id="text579"
+       transform="scale(1.127684,0.88677325)"><tspan
+         sodipodi:role="line"
+         id="tspan577"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni;fill:#fc1414;stroke-width:1.72742"
+         x="117.09328"
+         y="134.56828">T</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="122.12112"
+       y="19.836933"
+       id="text622"><tspan
+         sodipodi:role="line"
+         id="tspan620"
+         style="stroke-width:0.264583"
+         x="122.12112"
+         y="19.836933">TEXACO</tspan></text>
+  </g>
+</svg>
